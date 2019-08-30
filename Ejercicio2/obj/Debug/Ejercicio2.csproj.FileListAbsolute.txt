@@ -1,0 +1,7 @@
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Z:\Users\Master\Desktop\DaVinci\-NET\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
